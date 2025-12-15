@@ -1,5 +1,5 @@
 import { MapPin, GraduationCap, Mail, Facebook, Instagram } from 'lucide-react';
-import profileImg from '../Images/profile.jpg';
+import profileImg from '../images/profile.jpg';
 
 export default function AboutMe() {
   return (
