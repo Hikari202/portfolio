@@ -1,5 +1,5 @@
 import { Award, Image as ImageIcon } from 'lucide-react';
-import certificateImg from '../Images/certificate.jpg';
+import certificateImg from '../images/certificate.jpg';
 
 export default function Certifications() {
   return (
